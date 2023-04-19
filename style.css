@@ -52,7 +52,8 @@
   list-style: none;
 }
 
-input,button {
+input,
+button {
   outline: none;
 }
 
